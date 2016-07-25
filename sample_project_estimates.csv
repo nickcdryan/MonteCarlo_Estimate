@@ -1,0 +1,1 @@
+task number,discipline,task type,estimator,estimate (hours),confidence1,ux,wireframe,Albert,10,0.72,ux,ux documentation,Albert,5,0.93,front,setup,Beth,3,0.94,front,build,Beth,20,0.65,back,server map,Chris,20,0.56,back,integration,Chris,10,0.67,ui,styleguide,Daphne,6,0.98,ui,designs,Daphne,20,0.89,pm,project plan,Ed,4,0.810,pm,check ups,Ed,20,1
